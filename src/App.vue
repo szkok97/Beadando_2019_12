@@ -9,7 +9,7 @@
           <b-nav-item class="menupontok" href="Kerítés_fel.pdf">Feladat.pdf</b-nav-item>
           <b-nav-item class="menupontok" href="Kerítés_jav.pdf">Javítási.pdf</b-nav-item>
           <b-nav-item class="menupontok" href="https://github.com/szkok97/Beadando_2019_12">GitHub</b-nav-item>
-          <b-nav-item class="menupontok" https://github.com/nitslaszlo/JedlikVueJsStarter">SDK</b-nav-item>
+          <b-nav-item class="menupontok" href="https://github.com/nitslaszlo/JedlikVueJsStarter">SDK</b-nav-item>
         </b-navbar-nav>
       </b-collapse>
     </b-navbar>
